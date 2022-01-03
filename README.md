@@ -1,6 +1,6 @@
 ## Hola, I'm [Manisha Sahu!](https://codess-me.herokuapp.com/) 👋
 
-<p align="left">Views : 1.8K </p>
+<p align="left">Views : 2K </p>
 
 
 <a href="https://www.linkedin.com/in/manisha-sahu-bab63a198">
@@ -26,7 +26,13 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-</code>    
+</code>
+<code><img height="20" src="https://twitter.com/FastAPI/photo"></code>
+</code>
+<code><img height="20" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
+</code>
+<code><img height="20" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png"></code>
+</code>
 
 <a href="https://github.com/prettyquail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettyquail&theme=light&hide_langs_below=1" />
