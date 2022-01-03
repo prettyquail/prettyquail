@@ -37,11 +37,13 @@
 <a href="https://github.com/prettyquail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettyquail&theme=light&hide_langs_below=1" />
 </a>
-
+<br/>
+<br/>
 <a href="https://github.com/prettyquail">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prettyquail&show_icons=true&theme=dark&line_height=27" alt="Manisha's github stats"/>
 </a>
-
+<br/>
+<br/>
 <a href="https://github.com/prettyquail/Django-Rest-Framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prettyquail&repo=Django-Rest-Framework&theme=dark" />
 
