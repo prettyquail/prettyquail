@@ -27,7 +27,7 @@
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 </code>
-<code><img height="20" src="https://twitter.com/FastAPI/photo"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"></code>
 </code>
 <code><img height="20" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 </code>
@@ -37,9 +37,11 @@
 <a href="https://github.com/prettyquail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettyquail&theme=light&hide_langs_below=1" />
 </a>
+
 <a href="https://github.com/prettyquail">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prettyquail&show_icons=true&theme=dark&line_height=27" alt="Manisha's github stats"/>
 </a>
+
 <a href="https://github.com/prettyquail/Django-Rest-Framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prettyquail&repo=Django-Rest-Framework&theme=dark" />
 
