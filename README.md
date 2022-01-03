@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning more about Machine Learning.
 - 👯 I’m looking to collaborate on freelance projects.
 - 📫 How to reach me: [manishasahu1903@gmail.com]
-- 😄 Pronouns: Her
+- 😄 Pronouns: She/Her
 
 **Languages and Tools:**  
 
